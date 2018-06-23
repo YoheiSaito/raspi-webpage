@@ -14,7 +14,7 @@ The Goal is make to Surveillance camera that is able to access from Web blowser
 ### Access
 Host Name is "rasteyo".
 It doesn't have global IP.  
-So to access Website, you enter your blowser rasteyo.local in same LAN with RaspberryPi.
+Therefore to access Website, connect your PC to LAN that RaspberryPi connects  and you enter rasteyo.local to your browser.  
 
 ### Directory Setting  
 
